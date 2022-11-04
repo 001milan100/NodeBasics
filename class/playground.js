@@ -3,8 +3,8 @@
 //git add ./class/xxxx
 //git status
 //git log
-//git push -u origin master
 //git remote add test xxxxx
+//git push -u test xxx
 //git remote remove test
 //git branch xxxx
 //git checkout xxxx
